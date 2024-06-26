@@ -4,7 +4,7 @@ I'm a computer scientist and software engineer passionate about crafting elegant
 
 # 🌐 Contact me via:
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inesbourouissi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://tn.linkedin.com/in/ines-bourouissi-26b394b1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://tn.linkedin.com/in/ines-bourouissi)
 
 # 💻 Technical Skills:
 
